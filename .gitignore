@@ -1,4 +1,0 @@
-*.tmp        # Ignores all files ending in .tmp
-tmp/         # Ignores the entire tmp folder
-~$*          # Ignores all temporary Office files
-~$*.doc      # ignores Word temp files (Optional)
